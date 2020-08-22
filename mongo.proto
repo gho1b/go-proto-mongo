@@ -1,0 +1,3 @@
+syntax = "proto3";
+option go_package = "github.com/gho1b/go-proto-mongo;mongo";
+option optimize_for = SPEED;
